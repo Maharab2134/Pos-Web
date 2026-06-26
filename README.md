@@ -34,51 +34,6 @@ Our POS system streamlines sales and inventory management. It features a **Dashb
 ### ⚙️ Settings 
 - Configure system preferences, tax rates, and other business settings.
 
-  
-## 🎥 Demo
-You can browse the live demo of the POS system in Laravel & React at the following link:
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://qpos.qtecsolution.com/login/)
-
-### Dashboard:
-
-<img src="./public/ss/dashboard.png" width="900px" />
-
-### POS :
-
-<img src="./public/ss/pos.png" width="915px" />
-<img src="./public/ss/pos_invoice.png" width="915px" />
-
-### Sales List :
-
-<img src="./public/ss/sales.png" width="915px" />
-
-### Product Add :
-
-<img src="./public/ss/product_create.png" width="915px" />
-
-### Product List :
-
-<img src="./public/ss/product_list.png" width="915px" />
-
-### Product Purchase :
-
-<img src="./public/ss/product_purchase.png" width="915px" />
-
-
- ### Reporting :
-
-<img src="./public/ss/summery.png" width="915px" />
-<img src="./public/ss/sales_report.png" width="915px" />
-
-### Users & Role Management :
-
-<img src="./public/ss/role_permission.png" width="915px" />
-
- ### Application Settings :
-
-<img src="./public/ss/settings.png" width="915px" />
-
 
 ## 📦 Installation
 
